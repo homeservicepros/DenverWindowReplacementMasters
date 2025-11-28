@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Performance optimization
-Sitemap: https://windows.servicesdenverco.com/sitemap.xml
+Sitemap: https://window.servicesdenverco.com/sitemap.xml
 
 # Block common bot traps
 Disallow: /cgi-bin/
