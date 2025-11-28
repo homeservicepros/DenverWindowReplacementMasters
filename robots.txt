@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Performance optimization
-Sitemap: https://denver-window-replacement-masters.netlify.app/sitemap.xml
+Sitemap: https://windows.servicesdenverco.com/sitemap.xml
 
 # Block common bot traps
 Disallow: /cgi-bin/
